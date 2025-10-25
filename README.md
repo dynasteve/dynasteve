@@ -1,6 +1,6 @@
 # Hi there, I'm Stephen! 👋
 
-![Banner Image](https://www.vecteezy.com/vector-art/829812-binary-code-banner)
+![Banner Image](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_hybrid&w=740&q=80)
 
 ## About Me 🚀
 
