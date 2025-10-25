@@ -1,6 +1,6 @@
 # Hi there, I'm Stephen! 👋
 
-![Banner Image](https://www.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_12821890.htm)
+![Banner Image](https://www.vecteezy.com/vector-art/829812-binary-code-banner)
 
 ## About Me 🚀
 
@@ -8,7 +8,7 @@ I'm a passionate Software Engineer with experience in Python, Flutter and JavaSc
 
 - 🌱 Currently learning: FullStack web development
 - 🌍 Languages: Python, JavaScript and Dart
-- 📫 How to reach me: ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) tosisiyesteve@gmail.com
+- 📫 How to reach me: tosisiyesteve@gmail.com
 - ⚡ Fun fact: I love to dabble in graphics designing and 3d animation
 
 ## My Skills 🧠
