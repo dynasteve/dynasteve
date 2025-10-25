@@ -35,7 +35,6 @@ I'm a passionate Software Engineer with experience in Python, Flutter and JavaSc
 
 <!--
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
--->
 
 ## Featured Projects 💻
 
@@ -51,8 +50,10 @@ I'm a passionate Software Engineer with experience in Python, Flutter and JavaSc
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
+-->
+
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**
+<!-- - **[Personal Website / Blog]** -->
 - [LinkedIn](http://linkedin.com/in/stephen-akande-tos)
 - [Twitter](https://x.com/StephenAkande2)
