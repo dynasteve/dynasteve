@@ -55,5 +55,5 @@ I'm a passionate Software Engineer with experience in Python, Flutter and JavaSc
 ## Get in Touch 📬
 
 <!-- - **[Personal Website / Blog]** -->
-- [LinkedIn](http://linkedin.com/in/stephen-akande-tos)
+- [LinkedIn](http://linkedin.com/in/sakande)
 - [Twitter](https://x.com/StephenAkande2)
